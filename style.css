@@ -1,0 +1,11 @@
+div{
+	text-align:centre;
+	padding:20px;
+	border:white solid 1px;
+}
+
+body{
+	padding-left:400px;
+	padding-right:300px;
+	background-color:lightgray;
+}
